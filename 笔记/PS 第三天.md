@@ -4,7 +4,7 @@
 
 图层复制：选中图层，ctrl+j，在原位复制
 
-图层分组：ctrl+g，必须要有2个图层，取消分组：shift+ctrl+g
+图层分组：ctrl+g，必须要有 2 个图层，取消分组：shift+ctrl+g
 
 合并图层：ctrl+e，比较少用
 
